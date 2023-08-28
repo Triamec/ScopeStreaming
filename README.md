@@ -18,4 +18,4 @@ Processed 100000 samples.
 Processed 59995 samples.
 ```
 
-If `exportToCsv` is set to `true`, the data is exported as `CSV` in a format which can be read by the TAM System Explorer.
+If `exportToCsv` is set to `true`, the data is exported as `CSV` in the same fashion as the TAM System Explorer does it.
